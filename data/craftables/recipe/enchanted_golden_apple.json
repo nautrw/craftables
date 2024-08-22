@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "gNg",
+        "#A#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_nugget"
+        },
+        "G": {
+            "item": "minecraft:golden_apple"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "id": "minecraft:enchanted_golden_apple",
+        "count": 1
+    }
+}
